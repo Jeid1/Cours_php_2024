@@ -1,4 +1,4 @@
-# TP PHP n°1 : Les Bases du PHP
+# Les Bases du PHP
 
 ## Introduction
 Bienvenue dans le dépôt de cours et TPs pour les bases du PHP. Ce dépôt contient les documents et les exercices nécessaires pour apprendre les fondamentaux de PHP.
