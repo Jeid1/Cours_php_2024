@@ -1,7 +1,4 @@
-Voici une version mieux formatée de votre README pour GitHub :
-
-```markdown
-# TP PHP n°1 : Les Bases du PHP
+# Les Bases du PHP
 
 ## Introduction
 Bienvenue dans le dépôt de cours et TPs pour les bases du PHP. Ce dépôt contient les documents et les exercices nécessaires pour apprendre les fondamentaux de PHP.
@@ -16,9 +13,16 @@ L'objectif de ce cours est de vous introduire aux bases du langage PHP. À trave
 
 ## Contenu
 Ce dépôt contient les fichiers suivants :
+
+### Cours
+- `introduction-au-langage-php-1ere-partie_ed.pdf` : Introduction au langage PHP - Première partie.
+- `introduction-au-langage-php-2me-partie_ed.pdf` : Introduction au langage PHP - Deuxième partie.
+
+### Travaux Pratiques (TP)
 - `TP PHP n°1 _ Les Bases du PHP.pdf` : Le document principal du TP avec les exercices.
-- `TP PHP n°1 _ Les Bases du PHP L.pdf` : Version alternative du document principal.
-- `README.md` : Ce fichier, contenant des instructions et des informations sur le dépôt.
+- `TP PHP n°1 _ Les Bases du PHP (format long).pdf` : Version longue du document principal du TP.
+- `252711163-Tp-Corrige-s-Php_ed.pdf` : TP corrigé pour PHP.
+- `47894659-corriges-exercices-php5-ed2_ed.pdf` : Corrigés des exercices PHP5.
 
 ## Prérequis
 Pour suivre ce cours et réaliser les TPs, vous aurez besoin de :
