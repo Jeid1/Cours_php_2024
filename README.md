@@ -42,17 +42,6 @@ cd votre-repo
 2. Suivez les exercices dans l'ordre indiqué pour une meilleure compréhension.
 3. N'hésitez pas à consulter la documentation PHP sur [php.net](https://www.php.net/manual/fr/) pour plus de détails sur les fonctions et les concepts abordés.
 
-## Contribution
-Si vous souhaitez contribuer à ce dépôt, veuillez suivre ces étapes :
-1. Fork le dépôt.
-2. Créez une branche pour vos modifications (`git checkout -b feature/AmazingFeature`).
-3. Committez vos changements (`git commit -m 'Add some AmazingFeature'`).
-4. Pushez vers la branche (`git push origin feature/AmazingFeature`).
-5. Ouvrez une Pull Request.
-
-## License
-Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus d’informations.
-
 ## Contact
 Pour toute question, vous pouvez me contacter à [Mahfoudh JEID](mailto:mahfoudh.jeid@gmail.com).
 
